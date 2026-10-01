@@ -1,0 +1,16 @@
+id_cliente,nombre_completo,email,fecha_nacimiento,limite_credito,canal_registro,fecha_registro,estado_cliente,es_mayor_edad,limite_valido
+CLI-001,Maria Garcia,maria.garcia@email.com,1990-05-15,15000.00,WEB,2023-01-15,ACTIVO,true,true
+CLI-002,Juan Lopez,juan.lopez@email.com,2005-12-20,8000.00,MOBILE,2023-02-10,ACTIVO,false,true
+CLI-003,Carlos Rodriguez,carlos.r@email.com,1985-08-30,25000.00,WEB,2022-11-05,ACTIVO,true,true
+CLI-004,Ana Martinez,ana.martinez@email.com,1992-03-22,12000.00,AGENCIA,2023-03-01,ACTIVO,true,true
+CLI-005,Pedro Sanchez,pedro.s@email.com,1988-07-14,5000.00,WEB,2023-04-20,SUSPENDIDO,true,true
+CLI-006,Laura Torres,laura.torres@email.com,1995-11-08,18000.00,MOBILE,2023-01-25,ACTIVO,true,true
+CLI-007,Miguel Hernandez,miguel.h@email.com,2000-01-01,3000.00,WEB,2023-05-10,ACTIVO,true,false
+CLI-008,Isabel Ramirez,isabel.ramirez@email.com,1982-06-18,35000.00,AGENCIA,2022-08-15,ACTIVO,true,true
+CLI-009,David Gonzalez,david.g@email.com,1998-09-25,6000.00,MOBILE,2023-06-01,INACTIVO,true,true
+CLI-010,Patricia Lopez,patricia.l@email.com,1975-04-12,50000.00,WEB,2021-12-01,ACTIVO,true,true
+CLI-011,Fernando Castro,fernando.c@email.com,2006-02-28,2000.00,MOBILE,2023-07-15,ACTIVO,false,true
+CLI-012,Sofia Ruiz,sofia.ruiz@email.com,1993-10-05,22000.00,WEB,2022-09-20,ACTIVO,true,true
+CLI-013,Alejandro Diaz,alejandro.d@email.com,1989-12-31,15000.00,AGENCIA,2023-02-14,ACTIVO,true,true
+CLI-014,Claudia Morales,claudia.m@email.com,1991-07-09,10000.00,MOBILE,2023-03-25,ACTIVO,true,true
+CLI-015,Roberto Vega,roberto.vega@email.com,1987-03-17,28000.00,WEB,2022-10-10,ACTIVO,true,true
